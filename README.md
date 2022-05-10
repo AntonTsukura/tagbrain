@@ -1,2 +1,4 @@
 # tagbrain
-Web-tool for creating large classification maps 
+Web-tool for creating large classification maps, tags classification
+
+Last version: https://tagbrain.org/
